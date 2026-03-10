@@ -22,7 +22,7 @@ Enabled firewall protection on all networks
 
 Installed latest security updates
 Installed the latest Windows security updates.
-<img width="670" height="765" alt="virus scan" src="https://github.com/user-attachments/assets/50fd275e-0482-4457-aa83-1b604ac85b07" />
+<img width="1267" height="831" alt="windows update" src="https://github.com/user-attachments/assets/c531ec76-895f-41ba-a8da-8a3b183ad684" />
 
 Performed malware scan
 Performed a malware scan and confirmed system is secure.
